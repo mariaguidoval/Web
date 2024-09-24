@@ -1,0 +1,33 @@
+<!Doctype html>
+<html lang="pt-br">
+  <head>
+      <meta charset="utf-8">
+      <title>Pagina Inicial</title>
+  </head>
+</body bgcolor="#cfcdcd">
+    <tatle width="99%"height="40px"align="center"border="1">
+          <tr align="center">
+              <td><a href="index.html">Home</a></td>
+              <td><a href="imagem.html">Imagem</a></td>
+              <td><a href="Texto.html">Texto</a></td>
+              <td><a href="Listas.html">Listas</a></td>
+              <td><a href="Links.html">Links</a></Td>
+              </tr>
+            </table>
+            <br>
+            <table width=="99%"heighf="600px"align="center">
+            <tr>
+               <td><img src="Imagem.jpg"></td>  
+            </tr>
+          </table>
+          <table width="99%"align="center"bgcolor="#ccc">
+              <tr align="center">
+                 <td>Copyright c Curso Tecnico de Informatica-2024</td>
+              </tr>
+            </table>
+          </body>
+         </html>
+
+              
+                                              
+                
